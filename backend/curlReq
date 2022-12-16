@@ -1,0 +1,7 @@
+curl --location --request POST 'https://dev-5u-2vhhp.us.auth0.com/oauth/token' \
+--header 'Content-Type: application/x-www-form-urlencoded' \
+--data-urlencode 'client_id=Esk064Y7QVLamxr4GkMgrb2UGWZngAxi' \
+--data-urlencode 'username=sashagordin22@gmail.com' \
+--data-urlencode 'password=Socceralot22' \
+--data-urlencode 'grant_type=password' \
+--data-urlencode 'scope=openid'
