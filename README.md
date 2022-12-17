@@ -1,5 +1,7 @@
 # Auction Service
 
+https://melodic-cupcake-16964e.netlify.app
+
 ## Project Description:
 This is a full stack application for a live auction. The purpose of this project was to learn how to code a backend in Node.js.
 
@@ -14,7 +16,7 @@ The winner of the auction (highest bidder when auction closes) as well as the se
 If you want to run this application on your local device:
 Clone this repository.
 ```
-git clone https://github.com/codingly-io/sls-course-frontend
+git clone https://github.com/SashaGordin/auctionService.git
 cd frontend
 ```
 
