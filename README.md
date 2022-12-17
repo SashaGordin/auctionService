@@ -12,7 +12,7 @@ A user can create an auction with a name and attach an image of the item.
 Then other users of the application can place bids on the items. 
 The winner of the auction (highest bidder when auction closes) as well as the seller will recieve an email. 
 
-### Installation:
+### Installation
 If you want to run this application on your local device:
 Clone this repository.
 ```
@@ -45,7 +45,7 @@ npm start
 ```
 The application should now be running at [http://localhost:3000](http://localhost:3000).
 
-## Usage
+## Usage:
 If you would rather use the website that I have already hosted on Netlify click the link below:
 
 https://melodic-cupcake-16964e.netlify.app
